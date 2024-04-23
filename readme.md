@@ -1,6 +1,3 @@
----
-number headings: first-level 2, max 6, 1.1
----
 # 정솔
 
 ## 1 프로젝트
